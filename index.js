@@ -31,3 +31,19 @@ function currentLine(katzDeli){
 }
 
 // 
+/*
+
+for (a; b; c) {
+  d
+}
+
+
+
+a;
+while (b) {
+  {
+    d;
+  }
+  c;
+}
+*/
